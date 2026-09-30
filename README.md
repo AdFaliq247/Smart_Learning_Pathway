@@ -1,6 +1,6 @@
 # Smart_Learning_Pathway
 
-<h2>Group 2</h2>
+<h2>SWC2623 Project - Group 2</h2>
 <p>
   1. AHMAD FALIQ AZAMUDDIN BIN MAZLAN (AM2512020924) <br>
   2. MUHAMMAD AMMAAR BIN JAMAL (AM2512021184) <br>
